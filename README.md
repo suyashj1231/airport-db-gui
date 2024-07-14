@@ -16,7 +16,7 @@
 
 ![SS edit](https://github.com/user-attachments/assets/40707b3a-6654-41ac-9331-2ddca7d3cbc4)
 
- Img: Program running and editing a region 
+                    Img: Program running and editing a region 
 
 ## Key Concepts
 - SQL database interactions
