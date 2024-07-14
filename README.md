@@ -14,6 +14,9 @@
 - **GUI Framework:** tkinter
 - **Database:** SQLite3
 
+![SS edit](https://github.com/user-attachments/assets/40707b3a-6654-41ac-9331-2ddca7d3cbc4)
+ Img: Program running and editing a region 
+
 ## Key Concepts
 - SQL database interactions
 - Event-driven programming
@@ -26,3 +29,5 @@
 3. Clone this repository
 4. Navigate to the project directory
 5. Run `run_program.py` and load `airport.db`
+
+
