@@ -12,7 +12,7 @@
 ## Technical Details
 - **Language:** Python
 - **GUI Framework:** tkinter
-- **Database:** SQLite
+- **Database:** SQLite3
 
 ## Key Concepts
 - SQL database interactions
@@ -21,7 +21,7 @@
 - Separation of concerns (GUI, business logic, data access)
 
 ## Setup and Running
-1. Ensure you have Python installed (version X.X or higher)
+1. Ensure you have Python installed (version 3.9 or higher)
 2. Download the `airport.db` SQLite database file
 3. Clone this repository
 4. Navigate to the project directory
